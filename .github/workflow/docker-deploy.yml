@@ -34,4 +34,4 @@ jobs:
           context: .
           push: true
           tags:
-            lakshmi/helloworld-app:latest
+            lakshmibandla/helloworld-app:latest
